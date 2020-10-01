@@ -1,0 +1,65 @@
+.mainTable {
+  text-align: center;
+  border-spacing: 0;
+  padding: 30px;
+  mso-table-lspace: 0pt;
+}
+.mainTable table {
+  width: 600px;
+}
+.mainTable .m0a {
+  margin: 0 auto;
+}
+.mainTable table,
+.mainTable tr,
+.mainTable td,
+.mainTable th {
+  border-spacing: 0;
+  mso-table-lspace: 0pt;
+  text-align: center;
+}
+.mainTable .secondSection {
+  background-color: #081f3f;
+  padding: 30px;
+  color: #fff;
+}
+.mainTable .secondSection p {
+  line-height: 2;
+}
+.mainTable button.btn {
+  border: 1px solid black;
+  border-radius: 20px;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  width: 200px;
+  height: 45px;
+  font-weight: 800;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.mainTable button.btn.blueBtn {
+  background-color: #081f3f;
+  border-color: #081f3f;
+  color: #fff;
+}
+.mainTable button.btn.whiteBtn {
+  background-color: #fff;
+  border-color: #fff;
+  color: #081f3f;
+}
+.mainTable tfoot {
+  color: #fff;
+  background-color: #081f3f;
+}
+.mainTable tfoot tr {
+  padding: 50px 0;
+}
+.mainTable tfoot td {
+  border-color: #081f3f;
+  line-height: 50px;
+}
+.mainTable tfoot td p {
+  margin: 50px 25px;
+}
+
+/*# sourceMappingURL=style.css.map */
